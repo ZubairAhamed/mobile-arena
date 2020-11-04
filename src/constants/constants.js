@@ -1,0 +1,2 @@
+export const SAVE_DETAILS = "SAVE_DETAILS";
+export const REMOVE_DETAILS = "REMOVE_DETAILS";
